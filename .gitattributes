@@ -1,0 +1,49 @@
+# Read more about line endings here: https://help.github.com/articles/dealing-with-line-endings/
+
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# text files
+*.md	text
+*.txt	text
+*.html	text
+*.svg	text
+*.css	text
+*.js	text
+*.json	text
+*.xml	text
+*.ps1	text
+*.psm1	text
+*.psd1	text
+*.cs	text
+*.cshtml	text
+*.sql	text
+*.config	text
+*.csproj    text
+*.xproj	text
+*.sln	text
+*.pubxml	text
+
+# images
+*.ico	binary
+*.gif	binary
+*.png	binary
+*.jpg	binary
+*.psd	binary
+*.ai	binary
+
+# fonts
+*.ttf	binary
+*.woff	binary
+*.woff2	binary
+*.eot	binary
+
+# executables
+*.dll	binary
+*.exe	binary
+
+# source control
+*.ssc	binary
+
+# NuGet packages
+*.nupkg	binary

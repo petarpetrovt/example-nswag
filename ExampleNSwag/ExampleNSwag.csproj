@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="NJsonSchema" Version="10.1.2" />
+		<PackageReference Include="NSwag.AspNetCore" Version="13.2.0" />
+		<PackageReference Include="NSwag.MSBuild" Version="13.2.0">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+		</PackageReference>
+	</ItemGroup>
+
+
+	<Target Name="NSwag" AfterTargets="Build">
+		<ItemGroup>
+			<NSwagJson Include="$(MSBuildThisFileDirectory)wwwroot\api\**\nswag.json" />
+		</ItemGroup>
+		<Exec Command="$(NSwagExe_Core31) run &quot;%(NSwagJson.Identity)&quot; /variables:OutDir=$(OutDir),ProjectDir=$(ProjectDir)" />
+		<RemoveDir Directories="$(OutDir)References" />
+	</Target>
+
+</Project>

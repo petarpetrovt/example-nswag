@@ -1,0 +1,62 @@
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\ExampleNSwag.exe
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\ExampleNSwag.deps.json
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\ExampleNSwag.runtimeconfig.json
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\ExampleNSwag.runtimeconfig.dev.json
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\ExampleNSwag.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\ExampleNSwag.pdb
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\staticwebassets\ExampleNSwag.StaticWebAssets.Manifest.cache
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\staticwebassets\ExampleNSwag.StaticWebAssets.xml
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.AssemblyInfoInputs.cache
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.AssemblyInfo.cs
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.RazorTargetAssemblyInfo.cache
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.csproj.CopyComplete
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.dll
+C:\Users\Petar Petrov\Source\Repos\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.pdb
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\ExampleNSwag.exe
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\ExampleNSwag.deps.json
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\ExampleNSwag.runtimeconfig.json
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\ExampleNSwag.runtimeconfig.dev.json
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\ExampleNSwag.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\ExampleNSwag.pdb
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\staticwebassets\ExampleNSwag.StaticWebAssets.Manifest.cache
+D:\Projects\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\staticwebassets\ExampleNSwag.StaticWebAssets.xml
+D:\Projects\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.AssemblyInfoInputs.cache
+D:\Projects\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.AssemblyInfo.cs
+D:\Projects\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.RazorTargetAssemblyInfo.cache
+D:\Projects\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.csproj.CopyComplete
+D:\Projects\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.dll
+D:\Projects\ExampleNSwag\ExampleNSwag\obj\Debug\netcoreapp3.1\ExampleNSwag.pdb
